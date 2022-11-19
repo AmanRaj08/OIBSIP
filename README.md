@@ -23,3 +23,42 @@ TASK 3
 
 
 <img width="960" alt="temperature" src="https://user-images.githubusercontent.com/92743622/200163401-3fc65a45-6be8-4cdc-83b9-65592b1129c0.png">
+
+
+
+
+LEVEL 2
+
+
+
+TASK 1
+
+
+
+<img width="473" alt="Screenshot_20221120_013112" src="https://user-images.githubusercontent.com/92743622/202872180-2d40b88d-69ba-4ffc-8a17-af22c13175d7.png">
+
+
+
+
+TASK 2
+
+
+
+
+<img width="825" alt="Screenshot_20221120_025228" src="https://user-images.githubusercontent.com/92743622/202872184-a661a81c-5df7-4b8e-b6c0-fbd0c2260310.png">
+
+
+
+
+
+
+TASK 3
+
+
+
+
+<img width="953" alt="Screenshot_20221120_025357" src="https://user-images.githubusercontent.com/92743622/202872191-0b7c3a08-ec43-4bd6-ac0e-c28d5555ca6d.png">
+
+
+
+
